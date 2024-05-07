@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on doing development projects
 - 📫 How to reach me harishrg1810@gamil.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love sleeping and watch movies
+- ⚡ Fun fact: I love sleeping and watching movies
 
 <!---
 Harish-1810/Harish-1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
